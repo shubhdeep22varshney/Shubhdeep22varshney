@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubhdeep Varshney</h1>
 <h3 align="center">Java Backend Developer | MERN Stack Enthusiast | Tech Explorer from India 🇮🇳</h3>
-
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Shubhdeep-varshney?label=Followers&style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/Shubhdeep-varshney?affiliations=OWNER%2CCOLLABORATOR&style=social)
-  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Shubhdeep-varshney)
+  <img src="https://img.shields.io/github/followers/Shubhdeep-varshney?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Shubhdeep-varshney?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shubhdeep-varshney" />
 </p>
 
 
