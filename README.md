@@ -2,12 +2,11 @@
 <h3 align="center">Java Backend Developer | MERN Stack Enthusiast | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhdeep-varshney&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep-varshney&layout=compact&theme=tokyonight" />
-  <br/>
-  ![Profile Views](https://visitor-counter-badge.vercel.app/api/Shubhdeep-varshney/profile/)
+  ![GitHub followers](https://img.shields.io/github/followers/Shubhdeep-varshney?label=Followers&style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Shubhdeep-varshney?affiliations=OWNER%2CCOLLABORATOR&style=social)
+  ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Shubhdeep-varshney)
 </p>
+
 
 
 ---
