@@ -55,11 +55,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-- **Languages:** Java, JavaScript, TypeScript, Python, C++, Go, Shell
+- **Languages:** Java, JavaScript, TypeScript, Python
 - **Web Frameworks:** Spring Boot, JSP, Servlets, Express.js, Node.js, React.js
 - **Full-Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Databases:** MySQL, MongoDB, SQLite
-- **DevOps & Tools:** Git, GitHub, Shell scripting, Docker (learning), Postman, IntelliJ IDEA, VS Code
+- **Databases:** MySQL, MongoDB
+- **DevOps & Tools:** Git, GitHub, Docker (learning), Postman, IntelliJ IDEA, VS Code
 - **Data Science:** Python (NumPy, Pandas, scikit-learn), Jupyter Notebooks
 
 ---
