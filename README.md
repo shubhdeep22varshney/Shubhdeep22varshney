@@ -27,8 +27,7 @@
 - 🛠️ Deepening knowledge in Java Collections (LinkedList, HashMap, ArrayList, HashSet, Queue)
 - 🧩 Learning Java functional interfaces, comparison methods, inheritance, and memory management
 - 🗃️ Interested in advanced SQL: partitioning, ranking, and query optimization
-- 🎮 Curious about game development (Unity) and AI/ML with Python
-- 🎸 Learning guitar & started gym for fitness
+- 🎮 Curious about game development (Unity)
 - 🚀 Driven by curiosity—constantly exploring new frameworks and building scalable solutions
 
 ---
