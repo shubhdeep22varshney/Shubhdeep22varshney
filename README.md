@@ -1,34 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shubhdeep Varshney</h1>
-<h3 align="center">Java Backend Developer | MERN Stack Enthusiast | Tech Explorer from India 🇮🇳</h3>
+<h1 align="center">👋 Hi, I'm Shubhdeep Varshney</h1>
+<h3 align="center">Java Backend Developer | MERN Stack Enthusiast | Full-Stack Explorer from India 🇮🇳</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Shubhdeepvarshney?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Shubhdeepvarshney?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shubhdeepvarshney" />
+  <img src="https://komarev.com/ghpvc/?username=Shubhdeep22varshney&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Shubhdeepvarshney?style=social"/>
+  <img src="https://img.shields.io/github/stars/Shubhdeepvarshney?style=social"/>
 </p>
 
-
-
 ---
 
-## 📚 Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [Learning Journey](#learning-journey)
-- [GitHub Stats](#github-stats)
-- [Contact Me](#contact-me)
+## 💻 About Me
 
----
+I'm a passionate **Backend & Full-Stack Developer** exploring **Java, Spring Boot, MERN stack**, and modern web technologies.  
+I enjoy building **scalable, maintainable, and efficient solutions** while continuously learning new tools and frameworks.  
 
-## 👨‍💻 About Me
-
-- 🎓 Pursuing **Computer Engineering**
-- 💡 Exploring **Full-Stack Development** with Java (JSP, Servlets, Spring Boot) and **MERN Stack**
-- 🛠️ Deepening knowledge in Java Collections (LinkedList, HashMap, ArrayList, HashSet, Queue)
-- 🧩 Learning Java functional interfaces, comparison methods, inheritance, and memory management
-- 🗃️ Interested in advanced SQL: partitioning, ranking, and query optimization
-- 🎮 Curious about game development (Unity)
-- 🚀 Driven by curiosity—constantly exploring new frameworks and building scalable solutions
+- 🎓 Pursuing **Computer Engineering**  
+- 🔹 Strong foundation in **OOP, Data Structures, Algorithms**  
+- 🔹 Skilled in **Java, Spring Boot, JSP, Servlets, MERN stack**  
+- 🔹 Experienced in **SQL, MongoDB**, query optimization, and database design  
+- 🌱 Exploring **Cloud, DevOps, Docker, and automation**  
+- 🚀 Passionate about building **real-world projects** and contributing to open-source  
 
 ---
 
@@ -36,68 +27,54 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-- **Languages:** Java, JavaScript, TypeScript, Python
-- **Web Frameworks:** Spring Boot, JSP, Servlets, Express.js, Node.js, React.js
-- **Full-Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Databases:** MySQL, MongoDB
-- **DevOps & Tools:** Git, GitHub, Docker (learning), Postman, IntelliJ IDEA, VS Code
-- **Data Science:** Python (NumPy, Pandas, scikit-learn), Jupyter Notebooks
 
 ---
 
 ## 🚀 Projects
 
-- **Online Book Store**: Java/Spring Boot-based e-commerce web app for managing and buying books
-- **Electric Billing System**: Backend solution for automating electricity bill calculations and records
-- **MERN Blog Platform**: Full-stack blogging platform using MongoDB, Express.js, React, and Node.js (in progress)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Online Book Store** | E-commerce platform for browsing and purchasing books | Java, Spring Boot, MySQL, React |
+| **Electric Billing System** | Backend automation for electricity billing and records | Java, Spring Boot, MySQL |
+| **MERN Blog Platform** | Full-stack blogging platform (in progress) | MongoDB, React, JavaScript |
 
 ---
 
-## 🛤️ Learning Journey
+## 🌱 Learning & Growth
 
-- Advanced MERN stack features: aggregation pipelines, authentication, and deployment
-- Machine Learning with Python (TensorFlow, scikit-learn)
-- TypeScript for scalable web apps
-- Go for efficient backend services
-- Automation with Shell scripting
-- Advanced SQL: partitioning, ranking, and query optimization
-- Web development fundamentals: HTTP methods (GET, POST, PUT, DELETE)
-- Programming basics in Java, JavaScript, C++, Python
+- Advanced **Java & Spring Boot**: Microservices, REST APIs, security  
+- **MERN Stack**: React front-end + MongoDB backend  
+- **SQL & NoSQL**: Query optimization, indexes, database design  
+- **DevOps & Cloud**: Docker, CI/CD pipelines, AWS fundamentals  
+- **Data Science**: Python, NumPy, Pandas, scikit-learn  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhdeep22varshney&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhdeep22varshney&show_icons=true&theme=dracula" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep22varshney&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep22varshney&layout=compact&theme=dracula" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/shubhdeep-varshney-a124192b9)
-- [Email](mailto:shubhdeepvarshney02@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/shubhdeep-varshney-a124192b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubhdeepvarshney02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Consistency is more important than perfection. Let’s build the future together!” 🚀
+> 💡 “Consistency and curiosity are the keys to growth. Let's build impactful software together!” 🚀
