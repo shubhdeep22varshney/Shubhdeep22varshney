@@ -61,9 +61,9 @@ I enjoy building **scalable, maintainable, and efficient solutions** while conti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhdeep22varshney&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhdeepvarshney&show_icons=true&theme=dracula" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep22varshney&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeepvarshney&layout=compact&theme=dracula" />
 </p>
 
 ---
