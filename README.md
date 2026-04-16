@@ -1,69 +1,88 @@
+
 <h1 align="center">👋 Hi, I'm Shubhdeep Varshney</h1>
-<h3 align="center">Java Backend Developer | MERN Stack Enthusiast | Full-Stack Explorer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full-Stack Java Developer | Spring Boot | Microservices | Backend Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhdeep22varshney&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Shubhdeepvarshney?style=social"/>
-  <img src="https://img.shields.io/github/stars/Shubhdeepvarshney?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhdeep22varshney&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/shubhdeep22varshney?style=social" />
+  <img src="https://img.shields.io/github/stars/shubhdeep22varshney?style=social" />
 </p>
 
 ---
 
 ## 💻 About Me
 
-I'm a passionate **Backend & Full-Stack Developer** exploring **Java, Spring Boot, MERN stack**, and modern web technologies.  
-I enjoy building **scalable, maintainable, and efficient solutions** while continuously learning new tools and frameworks.  
+I’m a **Full-Stack Java Developer** focused on building **scalable backend systems and real-world applications** using modern technologies.
 
-- 🎓 Pursuing **Computer Engineering**  
-- 🔹 Strong foundation in **OOP, Data Structures, Algorithms**  
-- 🔹 Skilled in **Java, Spring Boot, JSP, Servlets, MERN stack**  
-- 🔹 Experienced in **SQL, MongoDB**, query optimization, and database design  
-- 🌱 Exploring **Cloud, DevOps, Docker, and automation**  
-- 🚀 Passionate about building **real-world projects** and contributing to open-source  
+- 🎓 B.Tech CSE (Data Science) @ ABESIT (2023–2027)  
+- 💡 Strong in **Java, Spring Boot, REST APIs, System Design**  
+- 🔐 Experience with **Spring Security, JWT, OAuth2, RBAC**  
+- ⚡ Built systems with **concurrency handling & ACID transactions**  
+- 📊 Solved **100+ DSA problems on LeetCode**  
+- 🏆 Completed **JP Morgan Chase & Deloitte Job Simulations**  
+- 🤖 AI/ML Training with **NVIDIA Partner (GI Ventures)**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### 🚀 Backend
+Java • Spring Boot • Spring Security • REST APIs • Microservices
+
+### 🌐 Frontend
+React • HTML • CSS • JavaScript
+
+### 🗄️ Databases
+MySQL • MongoDB • Redis
+
+### ⚙️ DevOps & Tools
+Docker • Git • GitHub • Maven • Linux • CI/CD • Postman • Swagger
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Online Book Store** | E-commerce platform for browsing and purchasing books | Java, Spring Boot, MySQL, React |
-| **Electric Billing System** | Backend automation for electricity billing and records | Java, Spring Boot, MySQL |
-| **MERN Blog Platform** | Full-stack blogging platform (in progress) | MongoDB, React, JavaScript |
+### 🎟️ Distributed Ticket Booking System
+- Built scalable backend using **Spring Boot + MySQL + JPA/Hibernate**
+- Implemented **ACID transactions** to prevent overbooking
+- Added **JWT authentication & role-based authorization**
+- Dockerized app with Swagger API documentation  
+**Tech:** Java, Spring Boot, MySQL, JPA, Docker, REST APIs  
 
 ---
 
-## 🌱 Learning & Growth
+### 🚦 API Gateway with Rate Limiting & Security
+- Developed **API Gateway using Spring Cloud Gateway**
+- Implemented **Redis-based rate limiting (Token Bucket)**
+- Secured APIs with **JWT + Keycloak (OAuth2 Resource Server)**
+- Added **RBAC + Actuator monitoring + logging**  
+**Tech:** Spring Boot, Gateway, Redis, Keycloak, Docker  
 
-- Advanced **Java & Spring Boot**: Microservices, REST APIs, security  
-- **MERN Stack**: React front-end + MongoDB backend  
-- **SQL & NoSQL**: Query optimization, indexes, database design  
-- **DevOps & Cloud**: Docker, CI/CD pipelines, AWS fundamentals  
-- **Data Science**: Python, NumPy, Pandas, scikit-learn  
+---
+
+### 📝 Journal App (Backend)
+- Built REST APIs using **Spring Boot + MongoDB**
+- Implemented **authentication & role-based access**
+- User-specific CRUD operations with security
+- Integrated **Redis caching + Email Service + External API**  
+**Tech:** Java, Spring Boot, MongoDB, JWT, Redis  
+
+---
+
+## 📈 Achievements
+
+- ⭐ 4★ in Java on HackerRank  
+- 🧠 Solved 100+ DSA problems on LeetCode  
+- 🏅 Certified in **DSA & Backend Development (Java)**  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="github-readme-stats.vercel.app" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhdeep22varshney&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="github-readme-stats.vercel.app" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhdeep22varshney&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,10 +90,14 @@ I enjoy building **scalable, maintainable, and efficient solutions** while conti
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shubhdeep-varshney-a124192b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shubhdeepvarshney02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shubhdeep-varshney-a124192b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shubhdeepvarshney02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-> 💡 “Consistency and curiosity are the keys to growth. Let's build impactful software together!” 🚀
+> 💡 "I build backend systems that are scalable, secure, and production-ready."
